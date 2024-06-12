@@ -1,5 +1,3 @@
-
-
 ```mermaid
     classDiagram
     Iphone <|-- ReprodutorMusical
@@ -26,4 +24,4 @@
     +adicionarNovaAba() void
     +atualizarPagina()void
     }
-´´´
+```
